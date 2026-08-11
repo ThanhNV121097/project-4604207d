@@ -1,5 +1,3 @@
+vendor/
+*.exe
 .env
-.env.local
-.git
-Dockerfile
-.dockerignore
