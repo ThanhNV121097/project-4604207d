@@ -9,7 +9,6 @@
     "test": "echo \"No frontend tests yet\""
   },
   "dependencies": {
-    "@next/eslint-plugin-next": "15.4.6",
     "next": "15.4.6",
     "react": "19.1.1",
     "react-dom": "19.1.1"
